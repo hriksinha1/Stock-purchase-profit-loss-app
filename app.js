@@ -33,7 +33,7 @@ function calculateProfitAndLoss (initial, quantity, current) {
 
     } else {
 
-        showOutput(`No pain no gain`);
+        console.log(`No pain no gain`);
 
     }
 
